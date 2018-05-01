@@ -1,6 +1,0 @@
-foo:
-  bar: test4
-
-path:
-  message: /hello4
-  any-resource: /any4
