@@ -4,3 +4,4 @@ foo:
 
 path:
   message: /hello
+  any-resource: /any
