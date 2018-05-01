@@ -1,3 +1,6 @@
-foo.bar: test
+foo:
+  bar: test
+  baz: @project.groupId@:@project.artifactId@:@project.version@
+
 path:
   message: /hello
