@@ -1,0 +1,3 @@
+foo.bar: test
+path:
+  message: /hello
