@@ -1,7 +1,10 @@
+# foo namespace
 foo:
   bar: test
   # baz: @project.groupId@:@project.artifactId@:@project.version@
 
-path:
-  message: /hello
-  any-resource: /any
+# hello namespace
+hello:
+  path:
+    message: /hello
+    any-resource: /any
