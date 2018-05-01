@@ -1,8 +1,8 @@
 foo:
-  bar: test3
+  bar: test4
 
-hello: hi
+hello: hi4
 
 path:
-  message: /hello3
-  any-resource: /any3
+  message: /hello4
+  any-resource: /any4
