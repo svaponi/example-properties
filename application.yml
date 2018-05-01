@@ -1,8 +1,8 @@
 # foo namespace
 foo:
-  bar: test
+  bar: test2
 
 # hello namespace
 path:
-  message: /hello
-  any-resource: /any
+  message: /hello2
+  any-resource: /any2
